@@ -91,9 +91,9 @@ científicas.
 
 ## Referências
 
-[1] https://www.beuc.eu/publications/beuc-x-2016-070_trade_and_privacy-complicated_bedfellows_study.pdf
-[2] https://europa.eu/rapid/press-release_IP-19-684_en.htm
-[3] https://www.forbrukerradet.no/siste-nytt/connected-toys-violate-consumer-laws
-[4] https://fil.forbrukerradet.no/wp-content/uploads/2017/10/watchout-rapport-october-2017.pdf
-[5] https://www.test-achats.be/action/espace-presse/communiques-de-presse/2018/hackable-home
-[6] https://www.etsi.org/deliver/etsi_ts/103600_103699/103645/01.01.01_60/ts_103645v010101p.pdf
+* [1] https://www.beuc.eu/publications/beuc-x-2016-070_trade_and_privacy-complicated_bedfellows_study.pdf
+* [2] https://europa.eu/rapid/press-release_IP-19-684_en.htm
+* [3] https://www.forbrukerradet.no/siste-nytt/connected-toys-violate-consumer-laws
+* [4] https://fil.forbrukerradet.no/wp-content/uploads/2017/10/watchout-rapport-october-2017.pdf
+* [5] https://www.test-achats.be/action/espace-presse/communiques-de-presse/2018/hackable-home
+* [6] https://www.etsi.org/deliver/etsi_ts/103600_103699/103645/01.01.01_60/ts_103645v010101p.pdf

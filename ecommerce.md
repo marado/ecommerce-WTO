@@ -19,7 +19,7 @@ protecção de dados[1].
 Vários dos tratados multilaterais a serem negociados incluem cláusulas de
 protecção de dados e privacidade que são efectivados numa lógica de "a
 protecção de dados e a privacidade são garantidos logo que não obstruam os
-fluxos de negócio. Apontamos, no entanto, que de acordo com a pópria visão da
+fluxos de negócio". Apontamos, no entanto, que de acordo com a pópria visão da
 União Europeia, a prespectiva a ter é exactamente a inversa: os fluxos de
 negócio podem existir logo que não violem a garantia de privacidade e a
 protecção de dados.
@@ -44,7 +44,7 @@ exemplo referentes à protecção de dados, ou direitos dos consumidores, estão
 ser cumpridas.
 
 Medidas deste género existem já, por exemplo no acordo USMCA, entre os Estados
-Unidos, México e Caandá, pelo que é possível que tais países queiram instituir
+Unidos, México e Canadá, pelo que é possível que tais países queiram instituir
 medidas similares em outros âmbitos, aliás como está já previsto no comunicado
 da Comissão Europeia[2]. É imperativo que Portugal rejeite estas medidas.
 
@@ -54,12 +54,13 @@ Também no USMCA vemos uma cláusula preocupante, referente à cibersegurança. 
 artigo 19.15 tenta previnir a regulação da cibersegurança, em detrimento da
 promoção da auto-regulação das empresas. Temos, no entanto, provas suficientes
 de que a auto-regulação não está a funcionar. Bonecas para crianças[3],
-relógios digitais[4], casas inteligentes[5], os casos multiplicam-se com a
-mesma rapidez de que estas novas tecnologias proliferam, um problema
-identificado pela Europa, e que levou, até, à criação de uma norma para a
-cibersegurança em produtos IoT de consumo[6]. No entanto, a criação de tal
-norma terá sido em vão, se impedirmos que tais normas sejam adoptadas, através
-da aceitação da insuficiente auto-regulação já existente.
+relógios digitais[4], casas inteligentes[5], os casos de falhas de segurança no
+desenho destes produtos multiplicam-se com a mesma rapidez de que estas novas
+tecnologias proliferam, um problema identificado pela Europa, e que levou, até,
+à criação de uma norma para a cibersegurança em produtos IoT de consumo[6]. No
+entanto, a criação de tal norma terá sido em vão, se impedirmos que tais normas
+sejam adoptadas, através da aceitação da insuficiente auto-regulação já
+existente.
 
 ## Transparência
 
@@ -91,9 +92,9 @@ científicas.
 
 ## Referências
 
-* [1] https://www.beuc.eu/publications/beuc-x-2016-070_trade_and_privacy-complicated_bedfellows_study.pdf
-* [2] https://europa.eu/rapid/press-release_IP-19-684_en.htm
-* [3] https://www.forbrukerradet.no/siste-nytt/connected-toys-violate-consumer-laws
-* [4] https://fil.forbrukerradet.no/wp-content/uploads/2017/10/watchout-rapport-october-2017.pdf
-* [5] https://www.test-achats.be/action/espace-presse/communiques-de-presse/2018/hackable-home
-* [6] https://www.etsi.org/deliver/etsi_ts/103600_103699/103645/01.01.01_60/ts_103645v010101p.pdf
+* [1] [https://www.beuc.eu/publications/beuc-x-2016-070_trade_and_privacy-complicated_bedfellows_study.pdf](https://www.beuc.eu/publications/beuc-x-2016-070_trade_and_privacy-complicated_bedfellows_study.pdf)
+* [2] [https://europa.eu/rapid/press-release_IP-19-684_en.htm](https://europa.eu/rapid/press-release_IP-19-684_en.htm)
+* [3] [https://www.forbrukerradet.no/siste-nytt/connected-toys-violate-consumer-laws](https://www.forbrukerradet.no/siste-nytt/connected-toys-violate-consumer-laws)
+* [4] [https://fil.forbrukerradet.no/wp-content/uploads/2017/10/watchout-rapport-october-2017.pdf](https://fil.forbrukerradet.no/wp-content/uploads/2017/10/watchout-rapport-october-2017.pdf)
+* [5] [https://www.test-achats.be/action/espace-presse/communiques-de-presse/2018/hackable-home](https://www.test-achats.be/action/espace-presse/communiques-de-presse/2018/hackable-home)
+* [6] [https://www.etsi.org/deliver/etsi_ts/103600_103699/103645/01.01.01_60/ts_103645v010101p.pdf](https://www.etsi.org/deliver/etsi_ts/103600_103699/103645/01.01.01_60/ts_103645v010101p.pdf)

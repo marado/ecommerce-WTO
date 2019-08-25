@@ -1,6 +1,6 @@
 # Comércio eletrónico no comércio internacional
 
-Não negando o possíel interesse da ANSOL por outros temas relacionados com
+Não negando o possível interesse da ANSOL por outros temas relacionados com
 comércio eletrónico que estejam a ser discutidos no âmbito do comércio
 internacional, apresentamos, neste momento, uma curta reflexão sobre quatro
 tópicos distintos que acreditamos merecer atenção.
